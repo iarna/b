@@ -1,0 +1,16 @@
+{
+  "name": "b",
+  "version": "1.0.0",
+  "description": "Another simple repo to demonstrate a bug",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomruggs/b.git"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "chai": "~1.9.0"
+  }
+}
